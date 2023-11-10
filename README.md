@@ -11,7 +11,8 @@
 
 ## URL
 
-* Get a purchase connection: [store](https://www.dfrobot.com/).
+* Get a purchase connection Mind+: [store](https://www.dfrobot.com/).
+* Get a purchase connection Mrobot: [store](https://www.wlkata.com/).
 
 ## Summary
 Support WLKATA series product control: Mirobot robotic arm, E4 robotic arm, slide rail, conveyor belt and other products.
